@@ -1,1 +1,4 @@
 __pycache__/
+
+.example-docker-compose.yml
+.env
